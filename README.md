@@ -6,7 +6,7 @@
 🤔 Focus on front-end development ...\
 🌱 Currently living in Shenzhen.
 
-### 🛠 Technical Skills
+## 🛠 Technical Skills
 
 ### 1. 前端开发
 - **框架**
@@ -23,10 +23,10 @@
 
 - **UI框架/组件库**
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=flat&logo=element&logoColor=white)
-![Naive UI](https://img.shields.io/badge/Naive_UI-03A9F4?style=flat)
+![Naive UI](https://img.shields.io/badge/Naive_UI-03A9F4?style=flat&logo=naiveui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
-![Vant-UI](https://img.shields.io/badge/Vant_UI-1989FA?style=flat)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flatt&logo=swiper&logoColor=white)
+![Vant-UI](https://img.shields.io/badge/Vant_UI-1989FA?style=flat&logo=vant&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=swiper&logoColor=white)
 
 ### 2. 构建与工具链
 - **构建工具**
@@ -41,24 +41,24 @@
 
 - **工具库**
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=lodash&logoColor=white)
-![Moment.js](https://img.shields.io/badge/Moment.js-5D5D5D?style=flat)
-![NProgress](https://img.shields.io/badge/NProgress-29D374?style=flat)
+![Moment.js](https://img.shields.io/badge/Moment.js-5D5D5D?style=flat&logo=momentjs&logoColor=white)
+![NProgress](https://img.shields.io/badge/NProgress-29D374?style=flat&logo=nprogress&logoColor=white)
 
 - **CSS工具 & 动画库**
 ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4?style=flat)
+![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4?style=flat&logo=animatecss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 - **优化**
-![SEO](https://img.shields.io/badge/SEO-000000?style=flat)
-![SSR](https://img.shields.io/badge/SSR-000000?style=flat)
+![SEO](https://img.shields.io/badge/SEO-000000?style=flat&logo=seo&logoColor=white)
+![SSR](https://img.shields.io/badge/SSR-000000?style=flat&logo=ssr&logoColor=white)
 
 - **代码质量**
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Black Duck](https://img.shields.io/badge/Black_Duck-000000?style=flat)
+![Black Duck](https://img.shields.io/badge/Black_Duck-000000?style=flat&logo=blackduck&logoColor=white)
 
 - **版本控制**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -74,32 +74,32 @@
 
 ### 4. 数据与通信
 - **数据可视化**
-![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat)
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=echarts&logoColor=white)
 ![Google Map](https://img.shields.io/badge/Google_Map-4285F4?style=flat&logo=googlemaps&logoColor=white)
 ![MapBox GL](https://img.shields.io/badge/MapBox_GL-000000?style=flat&logo=mapbox&logoColor=white)
-![腾讯地图](https://img.shields.io/badge/腾讯地图-0085FF?style=flat)
-![百度地图](https://img.shields.io/badge/百度地图-0B59FF?style=flat)
+![腾讯地图](https://img.shields.io/badge/腾讯地图-0085FF?style=flat&logo=tencentqq&logoColor=white)
+![百度地图](https://img.shields.io/badge/百度地图-0B59FF?style=flat&logo=baidu&logoColor=white)
 
 - **HTTP/通信**
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![Fetch](https://img.shields.io/badge/Fetch-FF6B6B?style=flat&logo=mdnwebdocs&logoColor=white)  
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+![Fetch](https://img.shields.io/badge/Fetch-FF6B6B?style=flat&logo=mdnwebdocs&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white)
 
 ### 5. 项目管理
-![Tapd](https://img.shields.io/badge/Tapd-0052CC?style=flat)
+![Tapd](https://img.shields.io/badge/Tapd-0052CC?style=flat&logo=tapd&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-### 🔭 GitHub Analysis
+## 🔭 GitHub Analysis
 <a href="https://github.com/yzhenhong">
-  <div align="left" style="display: flex; gap: 10px; height: 200px;">
-    <img style="display: flex; flex: 1; height: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img style="display: flex; flex: 1; height: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
+  <div style="display: flex; gap: 5px;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
   </div>
 </a>
 
-### 🤝🏻 Connect
+## 🤝🏻 Connect
 <a href="https://mail.qq.com/">
   <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-736647835@qq.com-green"/>
 </a>
