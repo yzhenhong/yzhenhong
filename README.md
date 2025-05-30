@@ -90,18 +90,13 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
-
-
 ### 🔭 GitHub Analysis
-<!-- 
-参考：https://github.com/anuraghazra/github-readme-stats 
--->
-<p align="left">
+<div align="left">
   <a href="https://github.com/yzhenhong">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" width="48%" height="195px" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark" width="48%" height="195px" />
   </a>
-</p>
+</div>
 
 ### 🤝🏻 Connect
 <a href="https://mail.qq.com/">
