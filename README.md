@@ -26,6 +26,7 @@
 ![Naive UI](https://img.shields.io/badge/Naive_UI-03A9F4?style=flat)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
 ![Vant-UI](https://img.shields.io/badge/Vant_UI-1989FA?style=flat)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flatt&logo=swiper&logoColor=white)
 
 ### 2. 构建与工具链
 - **构建工具**
@@ -43,14 +44,11 @@
 ![Moment.js](https://img.shields.io/badge/Moment.js-5D5D5D?style=flat)
 ![NProgress](https://img.shields.io/badge/NProgress-29D374?style=flat)
 
-- **CSS工具**
+- **CSS工具 & 动画库**
 ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-
-- **动画库**
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4?style=flat)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 - **优化**
 ![SEO](https://img.shields.io/badge/SEO-000000?style=flat)
