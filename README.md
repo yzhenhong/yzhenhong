@@ -1,28 +1,115 @@
-### 😎个人简介
-一个热爱开源的软件工程师，擅长CSS、HTML、Javascript、Typescript、Vue、React等相关技术开发。有微信Web应用、小程序，H5移动端应用，企业Web应用（ERP，CRM，OA等系统）设计和开发经验。
+## 👋 Hey guys, I'm Marco
 
-- [✍️知乎]、[👨‍🎓CSDN]、[🥇博客园]、[🕹掘金]、[🏆阿里云社区]
+### 👨🏻‍💻 About Me
 
-- [👨‍💻GitHub](https://github.com/yzhenhong)、[🦸‍♂️Gitee]、[🎉华为云社区]、[🚀今日头条]、[💯腾讯云社区]
+💬 Thinking ...\
+🤔 Focus on front-end development ...\
+🌱 Currently living in Shenzhen.
+
+### 🛠 Technical Skills
+
+### 1. 前端开发
+- **框架**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+
+- **状态管理 & 路由**
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD02F?style=flat&logo=pinia&logoColor=white)
+![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=flat&logo=vuerouter&logoColor=white)
+![React-Redux](https://img.shields.io/badge/React_Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+
+- **UI框架/组件库**
+![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=flat&logo=element&logoColor=white)
+![Naive UI](https://img.shields.io/badge/Naive_UI-03A9F4?style=flat)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Vant-UI](https://img.shields.io/badge/Vant_UI-1989FA?style=flat)
+
+### 2. 构建与工具链
+- **构建工具**
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+- **包管理**
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
+![NVM](https://img.shields.io/badge/NVM-000000?style=flat&logo=nvm&logoColor=white)
+
+### 3. 编程语言
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### 4. 样式与动画
+- **CSS工具**
+![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
+- **动画库**
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4?style=flat)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat)
+
+### 5. 数据与通信
+- **数据可视化**
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat)
+![Google Map](https://img.shields.io/badge/Google_Map-4285F4?style=flat&logo=googlemaps&logoColor=white)
+![MapBox GL](https://img.shields.io/badge/MapBox_GL-000000?style=flat&logo=mapbox&logoColor=white)
+
+- **HTTP/通信**
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+
+### 6. 工程化与质量
+- **代码质量**
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Black Duck](https://img.shields.io/badge/Black_Duck-000000?style=flat)
+
+- **优化**
+![SEO](https://img.shields.io/badge/SEO-000000?style=flat)
+![SSR](https://img.shields.io/badge/SSR-000000?style=flat)
+
+### 7. 协作与部署
+- **版本控制**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+
+- **项目管理**
+![Tapd](https://img.shields.io/badge/Tapd-0052CC?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+### 8. 工具库
+![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=lodash&logoColor=white)
+![Moment.js](https://img.shields.io/badge/Moment.js-5D5D5D?style=flat)
+![NProgress](https://img.shields.io/badge/NProgress-29D374?style=flat)
 
 
-### 💥行业认知
-无论你是在校学生或者是初入职场的小白还是久经职场的老司机，都要对互联网这个行业有一个正确的认知和觉悟：
-
-- 互联网行业能人比比皆是，请保持你的敬畏心。
-- 互联网行业的技术瞬息万变，请时刻保持你学习的动力。
 
 
-### ⭐个人认知
-学习是一个永无止境的过程，你知道的越多，你不知道的也会越多，在有限的时间内坚持每天多学一点，你一定能成为你想要成为的那个人。不积跬步无以至千里，不积小流无以成江海！
+### 🔭 GitHub Analysis
+<!-- 
+参考：https://github.com/anuraghazra/github-readme-stats 
+-->
+<p align="left">
+  <a href="https://github.com/yzhenhong">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  </a>
+</p>
 
 
-| <a href="https://github.com/yzhenhong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yzhenhong&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="yzhenhong github stats" /></a> | <a href="https://github.com/yzhenhong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 
-
-<div align="center">
-  <img src="./img/line.gif" alt="" />
-  <img src="./img/line.gif" alt="" />
-</div>
-
+### 🤝🏻 Connect
+<a href="https://mail.qq.com/">
+  <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-736647835@qq.com-green"/>
+</a>
