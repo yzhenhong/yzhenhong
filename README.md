@@ -38,14 +38,11 @@
 ![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
 ![NVM](https://img.shields.io/badge/NVM-000000?style=flat&logo=nvm&logoColor=white)
 
-### 3. 编程语言
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+- **工具库**
+![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=lodash&logoColor=white)
+![Moment.js](https://img.shields.io/badge/Moment.js-5D5D5D?style=flat)
+![NProgress](https://img.shields.io/badge/NProgress-29D374?style=flat)
 
-### 4. 样式与动画
 - **CSS工具**
 ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
@@ -55,44 +52,45 @@
 ![Animate.css](https://img.shields.io/badge/Animate.css-FF69B4?style=flat)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat)
 
-### 5. 数据与通信
-- **数据可视化**
-![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat)
-![Google Map](https://img.shields.io/badge/Google_Map-4285F4?style=flat&logo=googlemaps&logoColor=white)
-![MapBox GL](https://img.shields.io/badge/MapBox_GL-000000?style=flat&logo=mapbox&logoColor=white)
+- **优化**
+![SEO](https://img.shields.io/badge/SEO-000000?style=flat)
+![SSR](https://img.shields.io/badge/SSR-000000?style=flat)
 
-- **HTTP/通信**
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
-
-### 6. 工程化与质量
 - **代码质量**
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Black Duck](https://img.shields.io/badge/Black_Duck-000000?style=flat)
 
-- **优化**
-![SEO](https://img.shields.io/badge/SEO-000000?style=flat)
-![SSR](https://img.shields.io/badge/SSR-000000?style=flat)
-
-### 7. 协作与部署
 - **版本控制**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
-- **项目管理**
+### 3. 编程语言
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### 4. 数据与通信
+- **数据可视化**
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat)
+![Google Map](https://img.shields.io/badge/Google_Map-4285F4?style=flat&logo=googlemaps&logoColor=white)
+![MapBox GL](https://img.shields.io/badge/MapBox_GL-000000?style=flat&logo=mapbox&logoColor=white)
+![腾讯地图](https://img.shields.io/badge/腾讯地图-0085FF?style=flat)
+![百度地图](https://img.shields.io/badge/百度地图-0B59FF?style=flat)
+
+- **HTTP/通信**
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
+
+### 5. 项目管理
 ![Tapd](https://img.shields.io/badge/Tapd-0052CC?style=flat)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-### 8. 工具库
-![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=flat&logo=lodash&logoColor=white)
-![Moment.js](https://img.shields.io/badge/Moment.js-5D5D5D?style=flat)
-![NProgress](https://img.shields.io/badge/NProgress-29D374?style=flat)
-
 
 
 
