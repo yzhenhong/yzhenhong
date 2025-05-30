@@ -98,14 +98,17 @@
 -->
 <p align="left">
   <a href="https://github.com/yzhenhong">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   </a>
 </p>
-
-
 
 ### 🤝🏻 Connect
 <a href="https://mail.qq.com/">
   <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-736647835@qq.com-green"/>
 </a>
+
+<div align="center">
+  <img src="./img/line.gif" alt="" />
+  <img src="./img/line.gif" alt="" />
+</div>
