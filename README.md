@@ -82,6 +82,7 @@
 
 - **HTTP/通信**
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![Fetch](https://img.shields.io/badge/Fetch-FF6B6B?style=flat&logo=mdnwebdocs&logoColor=white)  
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat)
 
 ### 5. 项目管理
@@ -91,12 +92,12 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 ### 🔭 GitHub Analysis
-<div align="left">
-  <a href="https://github.com/yzhenhong">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" width="48%" height="195px" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark" width="48%" height="195px" />
-  </a>
-</div>
+<a href="https://github.com/yzhenhong">
+  <div align="left" style="display: flex; gap: 10px; height: 200px;">
+    <img style="display: flex; flex: 1; height: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yzhenhong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img style="display: flex; flex: 1; height: 100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yzhenhong&layout=compact&exclude_lang=java+r&theme=vue-dark"/>
+  </div>
+</a>
 
 ### 🤝🏻 Connect
 <a href="https://mail.qq.com/">
