@@ -26,7 +26,7 @@
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=flat&logo=wechat&logoColor=white)
-![UniApp]https://img.shields.io/badge/UniApp-2C405A?style=flat&logo=uniapp&logoColor=white)
+![UniApp](https://img.shields.io/badge/UniApp-2C405A?style=flat&logo=uniapp&logoColor=white)
 
 - **状态管理 & 路由**
 ![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
